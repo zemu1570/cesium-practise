@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import CesiumPractis from "@/components/CesiumPractise.vue"
+import CesiumPractis1 from "@/components/CesiumPractise1.vue"
 </script>
 
 <template>
-    <CesiumPractis />
+    <CesiumPractis1 />
 </template>
